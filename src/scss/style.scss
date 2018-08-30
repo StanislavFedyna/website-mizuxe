@@ -51,8 +51,13 @@ body {
     background:$primary;
     color:#fff;
 
+    h3, h5{
+      color: #fff !important;
+    }
+
     .fa{
       color:#fff;
     }
+
   }
 }

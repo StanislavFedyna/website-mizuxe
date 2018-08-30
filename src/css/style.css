@@ -47,6 +47,10 @@ body {
   color: #fff;
 }
 
+#authors .card:hover h3, #authors .card:hover h5 {
+  color: #fff !important;
+}
+
 #authors .card:hover .fa {
   color: #fff;
 }
